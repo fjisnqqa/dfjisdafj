@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+my.newscover.co.kr	TRUE	/	FALSE	1999999999	PHPSESSID	5f04f350db7c493213d7fce22e4159f4
+my.newscover.co.kr	TRUE	/	FALSE	1999999999	1:13b8_0	1:13b8_0_to_2:a2b5
+
